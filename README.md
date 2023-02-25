@@ -1,1 +1,1 @@
-# agiPhi.github.io
+# agiphi.github.io
